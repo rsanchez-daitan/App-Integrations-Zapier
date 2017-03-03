@@ -11,6 +11,10 @@
 
     <artifactId>integration-zapier</artifactId>
 
+    <properties>
+        <webapp.directory>zapier</webapp.directory>
+    </properties>
+
     <dependencies>
         <dependency>
             <groupId>org.symphonyoss</groupId>
