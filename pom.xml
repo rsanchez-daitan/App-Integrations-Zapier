@@ -21,6 +21,11 @@
         </license>
     </licenses>
 
+    <properties>
+        <webapp.directory>zapier</webapp.directory>
+        <rpm.name>zapier-symphony-integration</rpm.name>
+    </properties>
+
     <dependencies>
         <dependency>
             <groupId>org.symphonyoss</groupId>
